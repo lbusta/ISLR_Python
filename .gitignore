@@ -1,2 +1,6 @@
 .DS_Store
 .gitattributes
+.ipynb_checkpoints
+ISLR.code-workspace
+.vscode
+__pycache__
